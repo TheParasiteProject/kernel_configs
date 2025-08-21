@@ -61,6 +61,7 @@ was not changed - just the enforcement)
 			<release version="5.10.228" launch="2025-01-22" eol="2026-02-01"/>
 			<release version="5.10.234" launch="2025-03-24" eol="2026-04-01"/>
 			<release version="5.10.236" launch="2025-05-26" eol="2026-06-01"/>
+			<release version="5.10.238" launch="2025-07-24" eol="2026-11-01"/>
 		</lts-versions>
 	</branch>
 
@@ -77,6 +78,7 @@ was not changed - just the enforcement)
 			<release version="5.15.170" launch="2025-01-22" eol="2026-03-01"/>
 			<release version="5.15.178" launch="2025-03-24" eol="2026-07-01"/>
 			<release version="5.15.180" launch="2025-05-26" eol="2026-09-01"/>
+			<release version="5.15.185" launch="2025-07-24" eol="2026-11-01"/>
 		</lts-versions>
 	</branch>
 
@@ -95,6 +97,7 @@ was not changed - just the enforcement)
 			<release version="5.15.170" launch="2025-01-22" eol="2026-02-01"/>
 			<release version="5.15.178" launch="2025-03-24" eol="2026-04-01"/>
 			<release version="5.15.180" launch="2025-05-26" eol="2026-06-01"/>
+			<release version="5.15.185" launch="2025-07-24" eol="2026-11-01"/>
 		</lts-versions>
 	</branch>
 
@@ -117,6 +120,8 @@ was not changed - just the enforcement)
 			<release version="6.1.129" launch="2025-04-08" eol="2026-08-01"/>
 			<release version="6.1.134" launch="2025-05-15" eol="2026-08-01"/>
 			<release version="6.1.138" launch="2025-06-10" eol="2026-10-01"/>
+			<release version="6.1.141" launch="2025-07-09" eol="2026-11-01"/>
+			<release version="6.1.145" launch="2025-08-11" eol="2026-12-01"/>
 		</lts-versions>
 	</branch>
 
@@ -133,12 +138,16 @@ was not changed - just the enforcement)
 			<release version="6.6.82" launch="2025-04-09" eol="2026-08-01"/>
 			<release version="6.6.87" launch="2025-05-09" eol="2026-08-01"/>
 			<release version="6.6.89" launch="2025-06-10" eol="2026-08-01"/>
+			<release version="6.6.92" launch="2025-07-09" eol="2026-11-01"/>
+			<release version="6.6.98" launch="2025-08-11" eol="2026-12-01"/>
 		</lts-versions>
 	</branch>
 
 	<branch name="android16-6.12" min_android_release="16" version="6.12" launch="2024-11-17" eol="2029-07-01">
 		<lts-versions>
 			<release version="6.12.23" launch="2025-06-12" eol="2026-10-01"/>
+			<release version="6.12.30" launch="2025-07-11" eol="2026-11-01"/>
+			<release version="6.12.38" launch="2025-08-11" eol="2026-12-01"/>
 		</lts-versions>
 	</branch>
 </kernels>
